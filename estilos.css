@@ -1,0 +1,98 @@
+
+*{
+    padding:0;
+    margin:0;
+    text-decoration: none;
+    box-sizing:border-box;
+}
+h6{color:white}
+p{
+    color:white;
+    font-size: 15;
+}
+.nav-link{
+    color:white
+}
+a:hover{
+    color:gray;
+    transition: .5s;
+}
+.checkbtn{
+    color:white;
+    cursor:pointer;
+}
+h5{
+    color:black
+}
+.block{
+    text-align: center;
+    text-size-adjust: 5px;
+    color:black;
+    font-size: small;
+}
+.botonuno{
+    background-color: rgb(89, 192, 206);
+    border-color: rgb(89,192,206);
+    height: 25px;
+    font-size: small;
+}
+.botondos{
+    background: yellow;
+    color:black;
+    font-size: small;
+    border-color: yellow;
+    height: 25px;
+}
+.botontres{
+background-color: grey;
+color: white;
+font-size: small;
+border-color: grey;
+height: 25px;
+}
+.botoncuatro{
+    font-size: small;
+    height: 25;
+}
+.botoncinco{
+    font-size: small;
+    height: 25px;
+    background-color: rgba(202, 13, 54, 0.904);
+    border-color: rgba(202, 13, 54, 0.904);
+}
+.compra{
+    color:rgb(51, 233, 51);
+}
+.contenedor-tarjetas{
+    margin: auto auto;
+    width: 70%;
+    padding: 0%;
+}
+.card{
+    width: 100%;
+    margin: 20px;
+    overflow: hidden;
+   }
+.card-text{
+ text-size-adjust: 4px;
+ font-size: 12px;
+ color:black
+}
+.cajatexto{
+    background-color: rgb(80, 76, 76);
+    color:white;
+    text-align: justify;
+    font-size: small;
+    margin: 0;
+    padding:10px;
+    height: 410px;
+    width: auto;
+}
+.active{
+    color:white;
+}
+.cajaform{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
